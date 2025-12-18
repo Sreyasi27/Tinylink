@@ -1,8 +1,8 @@
-# TinyLink — Lightning-Fast URL Shortener 🚀  
+# **TinyLink — Lightning-Fast URL Shortener** 🚀  
 A beautifully simple, serverless URL shortener built on **AWS Lambda**, **API Gateway**, and **DynamoDB**, designed for speed, scalability, and effortless redirection.
 
 > *"Minimal on the surface. Powerful underneath."*  
-> — TinyLink Engineering
+> — __TinyLink Engineering__
 
 ---
 
@@ -11,11 +11,6 @@ A beautifully simple, serverless URL shortener built on **AWS Lambda**, **API Ga
   
 
 ---
-
-## 🎥 Demo Video
-> **Watch how TinyLink works end-to-end**
-
-<video src="assests/demo.mp4" width="600" controls></video>
 
 
 ---
@@ -233,9 +228,7 @@ curl -I https://tinylink.sbs/abc123
 
 ---
 
-## � License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -246,6 +239,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![portfolio](https://img.shields.io/badge/Sreyasi_Das_Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sreyasi27/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreyasi-das-641851365/)
 
+**Subhayu Roy**
+
+[![portfolio](https://img.shields.io/badge/Subhayu_Roy_Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Subhayu004)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/subhayu-roy-83b435341)
 ---
 
 ## 🙏 Acknowledgments
